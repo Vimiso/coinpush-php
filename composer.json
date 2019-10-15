@@ -1,5 +1,5 @@
 {
-    "name": "coinpush-php",
+    "name": "vimiso/coinpush-php",
     "type": "library",
     "description": "Integrate cryptocurrency payments into your application.",
     "license": "MIT",
