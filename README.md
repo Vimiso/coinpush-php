@@ -30,7 +30,7 @@ This PHP SDK interacts with the [Coinpush.io API](http://coinpush.test/docs/api)
 ## Installation
 
 ```
-composer require vimiso/coinpush-php
+composer require vimiso/coinpush-php:1.*
 ```
 
 ## Usage
