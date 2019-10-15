@@ -5,7 +5,6 @@
     "license": "MIT",
     "homepage": "https://coinpush.io",
     "minimum-stability": "dev",
-    "version":"master",
     "prefer-stable": true,
     "require": {
         "php": ">=7.0.0",
