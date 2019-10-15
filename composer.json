@@ -1,0 +1,18 @@
+{
+    "name": "vimiso/coinpush",
+    "type": "library",
+    "description": "Integrate cryptocurrency payments into your application.",
+    "license": "MIT",
+    "homepage": "https://coinpush.io",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.0.0",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Coinpush\\": "src/Coinpush/"
+        }
+    }
+}
