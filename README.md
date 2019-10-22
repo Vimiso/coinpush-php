@@ -64,11 +64,11 @@ $config = (new Config)->useTestnet();
 $client = new Client($config);
 ```
 
-IMPORTANT: Do not send real payments to any addresses created on the Testnet.
+IMPORTANT: Please do not send real payments to any addresses created on the Testnet, as our systems do not monitor them automatically.
 
 ## Approach A
 
-This approach provides you with payment system endpoints on a "per-cryptocurrency" basis.
+This enables payments on a per-cryptocurrency basis.
 
 ### Payment Creation
 
