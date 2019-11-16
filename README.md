@@ -64,7 +64,7 @@ $config = (new Config)->useTestnet();
 $client = new Client($config);
 ```
 
-IMPORTANT: Please do not send real payments to any addresses created on the Testnet, as our systems do not monitor them automatically.
+IMPORTANT: Please do not send real payments to any addresses created on the Testnet - our systems will not detect them.
 
 ## Approach A
 
